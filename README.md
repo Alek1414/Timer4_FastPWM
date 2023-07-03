@@ -96,4 +96,4 @@ void loop() {
 This class was created by Alejandro Miguel Kölbl.
 
 ## License
-This project is licensed under the MIT License. Feel free to modify and adapt this README file as needed for your project.
+This project is licensed under the MIT License. Feel free to modify and adapt the class as needed for your project.
